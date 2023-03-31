@@ -8,8 +8,7 @@ Looping adalah sebuah konsep pemrograman yang digunakan untuk melakukan perulang
 
 :heavy_check_mark: Apa perbedaan dari procedural, conditional, dan looping?\
 :heavy_check_mark: Kapan harus menggunakan looping?\
-:heavy_check_mark: Sebutkan 3 looping yang dapat digunakan dan fungsi masing-masing looping
-\
+:heavy_check_mark: Sebutkan 3 looping yang dapat digunakan dan fungsi masing-masing looping\
 
 ### perbedaan dari procedural, conditional, dan looping
 
